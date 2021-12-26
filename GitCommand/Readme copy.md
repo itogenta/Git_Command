@@ -10,4 +10,4 @@ git remote add origin https://github.com/itogenta/GitCommand.git
 git branch -M main
 git push -u origin maingit
 
-test
+This is Test!
